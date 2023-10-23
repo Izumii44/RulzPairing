@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rizzlogy/zyypairing.git"
+    "url": "git+https://github.com/khrlmstfa/rulzpairing.git"
   },
   "author": "Rulzz",
   "license": "ISC",
@@ -32,7 +32,7 @@
     "pino": "^8.1.0"
   },
   "bugs": {
-    "url": "https://github.com/rizzlogy/zyypairing/issues"
+    "url": "https://github.com/khrlmstfa/rulzpairing/issues"
   },
-  "homepage": "https://github.com/rizzlogy/zyypairing#readme"
+  "homepage": "https://github.com/khrlmstfa/rulzpairing#readme"
 }
