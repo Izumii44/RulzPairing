@@ -1,6 +1,6 @@
 <h1 align="center">Rulz-Pairing</h1>
 <p align="center">
-    <img src="https://aemt.me/file/EYW5SkXzvI0L.jpg" width="60%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://aemt.me/file/EYW5SkXzvI0L.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 </p>
 <p align="center">
